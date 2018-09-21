@@ -1,0 +1,80 @@
+header {
+  height: 600px;
+  background-color: #ffffff;
+  opacity: 0.9;
+  padding: 100px;
+  line-height: 1.6em;
+}
+
+h2 {
+  background-color: #ffffff;
+  font-size: 200px;
+  margin: 100px;
+  text-align: right;
+}
+
+p.saori {
+  text-align: left;
+}
+
+
+section {
+  /*background-image: image("imagenes/sr.jpeg");*/
+  height: 600px;
+  background-color: #ffffff;
+  opacity: 0.3;
+  padding: 100px;
+}
+
+p.logros {
+  text-align: left;
+}
+
+article {
+  /*background-image: image("imagenes/sr.jpeg");*/
+  height: 800px;
+  background-color: #ffffff;
+  opacity: 0.3;
+  padding: 100px;
+}
+
+p.experiencia {
+  text-align: left;
+}
+
+
+hgroup {
+  /*background-image: image("imagenes/sr.jpeg");*/
+  height: 600px;
+  background-color: #ffffff;
+  opacity: 0.3;
+  padding: 100px;
+}
+
+p.educacion {
+  text-align: left;
+}
+
+aside {
+  /*background-image: image("imagenes/sr.jpeg");*/
+  height: 400px;
+  background-color: #ffffff;
+  opacity: 0.3;
+  padding: 100px;
+}
+
+p.referencias {
+  text-align: left;
+}
+
+footer {
+  /*background-image: image("imagenes/sr.jpeg");*/
+  height: 600px;
+  background-color: #ffffff;
+  opacity: 0.3;
+  padding: 100px;
+}
+
+p.footer {
+  text-align: left;
+}
